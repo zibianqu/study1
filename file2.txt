@@ -1,0 +1,3 @@
+这里是file2.txt件
+内容：
+file2  file2
